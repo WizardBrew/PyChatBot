@@ -64,32 +64,35 @@ def validate_Input(UserIp):                                 # User Validation fu
         elif "time" in User_input or "date" in User_input or "today" in User_input:
             print(Switch[9])
 
-                    #----===----=== Tasks Defined ===----===----#
+                 #----=== Add as many as you want. all Parameters as above same  ===----#
+
+                    #----===----=== Tasks Defined ===----===----#   
         elif "open chrome" in User_input or "chrome browser" in User_input or "open browser" in User_input:
             sp.call("C:\\Program Files\\Google\\Chrome\\Application\\chrome.exe")
         elif "open control" in User_input or "control panel" in User_input or "c panel" in User_input:
-            sp.Popen('C:\\Windows\\System32\\Control.exe')
+            sp.Popen('C:\\Windows\\System32\\Control.exe')  #----=== Replace your System Path ===----#
         elif "open calculator" in User_input or "calc" in User_input or "calculator" in User_input:
-            sp.Popen('C:\\Windows\\System32\\calc.exe')
+            sp.Popen('C:\\Windows\\System32\\calc.exe')     #----=== Replace your System Path ===----#
         elif "open paint" in User_input or "paint" in User_input or "ms paint" in User_input:
-            sp.Popen('C:\\Windows\\System32\\mspaint.exe')
+            sp.Popen('C:\\Windows\\System32\\mspaint.exe')  #----=== Replace your System Path ===----#
             
-                #_____------------_____Online Tasks_____----------______
+                #_____------------_____Online Tasks_____----------______ 
         elif "open youtube" in User_input or "youtube.com" in User_input or "browse youtube" in User_input:
             wb.register('chrome', None)
-            wb.open('https://www.youtube.com')
+            wb.open('https://www.youtube.com')  #----=== Replace your URL's ===----#
         elif "open google" in User_input or "google.com" in User_input or "browse google" in User_input:
             wb.register('chrome', None)
-            wb.open('https://www.google.com')
+            wb.open('https://www.google.com')   #----=== Replace your URL's ===----#
         elif "open stack" in User_input or "stackoverflow.com" in User_input or "stack overflow" in User_input:
             wb.register('chrome', None)
-            wb.open('https://stackoverflow.com/')
+            wb.open('https://stackoverflow.com/')   #----=== Replace your URL's ===----#
         
-        
+            #----=== Add as many as you want. all task as above same  ===----#
+
         elif "how" in User_input and "you" in User_input or "hi" in User_input or "hello" in User_input: 
-            print(Switch[39])
+            print(Switch[39])       #----=== Do not change this Greet  ===----#
         elif "help" in User_input or "--h" in User_input:
-            print(help)
+            print(help)             #----=== Do not change this Greet  ===----#
         elif "qw" in User_input or "quit chat" in User_input or "exit" in User_input:
             print("Thank You Sir!! Hope i serverd Info")
         else:
