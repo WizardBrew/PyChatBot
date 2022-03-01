@@ -1,37 +1,40 @@
-## Welcome to GitHub Pages
+## Welcome to Wizardbrew
+
+#~~~~~~~~~~~~ How To Use ChatBot ~~~~~~~~~~~~~~~~~~~~~
+##    ------ _Use Keywords to get output---------
+###-------# _you can replace as per your need and make Advance NLP too'----
+        ------------------------------------
+_Chat predefined._
+    _Questions       <=======>  Key Words_
+    ---------------------------------------
+**-How are you?                    how & you
+-where are you from?             where & from
+-what do you do?                 what & do
+-where are you from?             where & from
+-what is super computer?         what & super/computer
+-who inventer super computer?    who & super/computer
+-what is your my name?               what & my name
+-Who invented python programming?    who & python/programming
+-ask time and date                   time/date**
+        --------------------------------------
+_##Tasks can be performed <=========> Key Words_
+_------#Replace Local path as per your need to redirect#-------_
+----------------------------------------------------
+**```-chrome              (Open chrome/ chrome/browse)
+-control panel       (open control/control panel/c panel)
+-calculator          (open calculator/calculator/calc)
+-mspaint             (open paint/paint/ms paint)**
+ 
+_##------#Replace URL as per your need to redirect#-------_
+**-Youtube             (open Youtube/youtube.com/browse youtube)
+-google              (open google/google.com/browse google)
+-stack overflow      (open stack/stackoverflow.com/stack overflow**
+ 
+------------------------------------------------------------------
+# Add your own this Bot can be pushed to Advance level with Voice.
+# Make changes add all new stuff enjoy programming
+''')
+
+https://github.com/WizardBrew/PyChatBot
 
 You can use the [editor on GitHub](https://github.com/WizardBrew/PyChatBot/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/WizardBrew/PyChatBot/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
