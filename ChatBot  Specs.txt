@@ -1,0 +1,28 @@
+At any point of time if you need any help to develop this chat bot to advance can drop me below
+@ wizardbrew84@gmail.com
+Insta- warrior8004.
+
+This project is for students to make their python basic concept of chat bot easier.
+
+The current version can reply to the chats based on user input of the person with more than 10 parameters plz follow the ReadMe.
+
+Current version bot can Do builtins
+Open Browser
+Open Calculator
+Open Control Panel
+Open My Computer. >> Note: Follow Instruction Manual and replace your system Path where needed.
+  
+    Current version bot can Do for browser redirection builtins
+      Opens Google 
+      Opens Youtube
+      Opens Stackoverflow >>  Note Follow Instruction Manual and replace your Online URLs where needed
+    
+There are certain things you can add in this to make Basic-advance 
+Like  add voice to it using pyttsx3 using ===>  pip install pyttsx3
+Add more user input parameters to respond to the chat.
+Add to system Start up and automation modules ===> i may keep those modules in my git use them if needed.
+Make this as your Routine Bot to perform your regular task by configuring that task with date and time
+ADD Hot Words to the chatbot can make this project like Jarvis of Iron man.
+
+
+++++++=============ALL The Best============+++++++++++++++++++++
