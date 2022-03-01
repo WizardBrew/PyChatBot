@@ -1,10 +1,10 @@
 ## Welcome to Wizardbrew
 
-#~~~~~~~~~~~~ How To Use ChatBot ~~~~~~~~~~~~~~~~~~~~~
+##~~~~~~~~~~~~ How To Use ChatBot ~~~~~~~~~~~~~~~~~~~~~
 ##    ------ _Use Keywords to get output---------
 ###-------# _you can replace as per your need and make Advance NLP too'----
         ------------------------------------
-_Chat predefined._
+###_Chat predefined._ ChatBOT help
     _Questions       <=======>  Key Words_
     ---------------------------------------
 **-How are you?                    how & you
@@ -32,8 +32,8 @@ _##------#Replace URL as per your need to redirect#-------_
 -stack overflow      (open stack/stackoverflow.com/stack overflow**
  
 ------------------------------------------------------------------
-# Add your own this Bot can be pushed to Advance level with Voice.
-# Make changes add all new stuff enjoy programming
+## Add your own this Bot can be pushed to Advance level with Voice.
+## Make changes add all new stuff enjoy programming
 ''')
 
 https://github.com/WizardBrew/PyChatBot
