@@ -8,15 +8,15 @@ help = ('''
 Chat predefined.
     Questions       <=======>  Key Words 
     ---------------------------------------
-How are you?                    how & you
-where are you from?             where & from
-what do you do?                 what & do
-where are you from?             where & from
-what is super computer?         what & super/computer
-who inventer super computer?    who & super/computer
-what is your my name?               what & my name
-Who invented python programming?    who & python/programming
-ask time and date                   time/date
+How are you?                         how & you
+where are you from?                  where & from
+what do you do?                      what & do
+where are you from?                  where & from
+what is super computer?              what & super/computer
+who inventer super computer?         who & super/computer
+what is your my name?                what & my name
+Who invented python programming?     who & python/programming
+ask time and date                    time/date
         --------------------------------------
 Tasks can be performed <=========> Key Words
 ------#Replace Local path as per your need to redirect#-------
