@@ -8,7 +8,7 @@ TimeMod = datetime.now()                    # Variable defined fortime attribute
 CurrentTime = TimeMod.strftime("%H:%M:%S")
 date_2dy = datetime.now().date()
 
-User_input = ""                             # Valiable to use later as input.
+User_input = " "                             # Variable to use later as input.
 
 Greet = "Hello i am Chat AI, "                                # Variable to start Chatbot Greeting
 Greet_Wishes = "-- I have low Config working in basic mode, Nice to see you,--"   
