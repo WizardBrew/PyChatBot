@@ -10,10 +10,10 @@ date_2dy = datetime.now().date()
 
 User_input = " "                             # Variable to use later as input.
 
-Greet = "Hello i am Chat AI, "                                # Variable to start Chatbot Greeting
+Greet = "Hello i am Chat AI, "                                     # Variable to start Chatbot Greeting
 Greet_Wishes = "-- I have low Config working in basic mode, Nice to see you,--"   
 Greet2 = " = How can i help you =\n"                                   # same above
-Var_One = "My name is {User_input}\n, "                         # Not used for now ---- Can use for further Dev'----
+Var_One = "My name is {User_input}\n, "                           # Not used for now ---- Can use for further Dev'----
 
 def User_input_Function():                                      # Start up function of chatbot
     global UserID
