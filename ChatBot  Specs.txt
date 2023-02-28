@@ -1,6 +1,7 @@
 At any point of time if you need any help to develop this chat bot to advance can drop me below
 @ wizardbrew84@gmail.com
 Insta- warrior8004.
+Open to Queries. 
 
 This project is for students to make their python basic concept of chat bot easier.
 
