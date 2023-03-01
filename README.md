@@ -2,7 +2,7 @@ Clean Explained Code for Students Project.
 
 ![image](https://user-images.githubusercontent.com/91134716/156273289-33a59739-532f-4c5b-98fb-ce6f2a878362.png)
 
-Builtin Tasks Opening ![image](https://user-images.githubusercontent.com/91134716/156273679-1520fc4a-7c0c-4b43-b73a-204004d34014.png)
+Builtin Offline Tasks Opening ![image](https://user-images.githubusercontent.com/91134716/156273679-1520fc4a-7c0c-4b43-b73a-204004d34014.png)
 
 Online Tasks
 ![image](https://user-images.githubusercontent.com/91134716/156273863-36096b27-2632-447e-91d8-7f0e9e282840.png)
