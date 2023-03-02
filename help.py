@@ -19,7 +19,7 @@ Who invented python programming?     who & python/programming
 ask time and date                    time/date
         --------------------------------------
 Tasks can be performed <=========> Key Words
-------#Replace Local path as per your need to redirect#-------
+------# Replace Local path as per your need to redirect #-------
 ----------------------------------------------------
 chrome              (Open chrome/ chrome/browse)
 control panel       (open control/control panel/c panel)
