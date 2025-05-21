@@ -17,7 +17,7 @@ Var_One = "My name is {User_input}\n, "                           # Not used for
 
 def User_input_Function():                                      # Start up function of chatbot
     global UserID
-    UserID = input("Enter your name Here: \n\n")                # Asks for user input (to define Name of user)
+    UserID = input("Enter your name here: \n\n")                # Asks for user input (to define Name of user)
     print(f"{Greet}\n{Greet_Wishes}\n{Greet2}\n === { UserID} ===,\n")       # dispalys all greet func with user name
 
 User_input_Function()
